@@ -257,3 +257,14 @@ https://claude.ai/public/artifacts/a2098a18-1276-4127-ad8e-6854c38d4fba
 
 Es la **herramienta definitiva** para quien quiere tener **control total** sobre sus gastos de supermercado y tomar **decisiones inteligentes** basadas en datos reales, no en memoria o estimaciones. Todo esto con una interfaz hermosa, moderna y fácil de usar, diseñada específicamente para el mercado argentino.
 
+## Imagenes de la aplicacion:
+
+<img width="558" height="543" alt="Screenshot_1" src="https://github.com/user-attachments/assets/b7212c05-b7c0-4a0f-877f-1c1870259c15" /><br>
+
+
+<img width="576" height="547" alt="Screenshot_2" src="https://github.com/user-attachments/assets/3819fba7-0dbd-4e4c-bb3f-2f8c40090072" /><br>
+
+
+<img width="569" height="543" alt="Screenshot_3" src="https://github.com/user-attachments/assets/3f69b431-c799-4889-887a-f43469ffbb9e" /><br>
+
+---
